@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChenxuKwok
 - 👀 I’m interested in Machine Leanrning (especially in Speech) and Robotics. 
 - 🌱 I’m currently learning reinforcement learning in Robotics
-- 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), [e-mail](louis.kwok.work@gmail.com)
+- 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), louis.kwok.work@gmail.com
 
 
 <!---
