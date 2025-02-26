@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @ChenxuKwok
+### Hi there 👋 This is Chenxu Guo's Github
+
+I am `Chenxu Guo`,  a current junior from **Zhejiang University**.
+
 - 👀 I’m interested in Machine Leanrning (especially in Speech) and Robotics. 
 - 🌱 I’m currently learning reinforcement learning in Robotics
 - 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), louis.kwok.work@gmail.com
