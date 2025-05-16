@@ -1,10 +1,10 @@
 ### Hi there 👋 This is Chenxu Guo's Github
 
-I am `Chenxu Guo`,  a current junior from **Zhejiang University**.
+I am `Chenxu Guo`,  a current junior undergraduate from **Zhejiang University**, and a research in tern at the **Berkeley Speech Group**.
 
-- 👀 I’m interested in Machine Leanrning (especially in Speech) and Robotics. 
-- 🌱 I’m currently learning reinforcement learning in Robotics
-- 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), louis.kwok.work@gmail.com
+- 👀 I’m interested in machine learning, especially speech-related areas such as ASR and TTS.
+- 🧠 I'm interested in human-centred AI and aim to manage and use limited or imperfect data efficiently. If you are also interested in this area, please feel free to contact me!
+- 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), [e-mail](louis.kwok.work@gmail.com)
 
 
 <!---
