@@ -6,6 +6,7 @@ I am `Chenxu Guo`,  a current junior undergraduate from **Zhejiang University**,
 - 🧠 I'm interested in human-centred AI and aim to manage and use limited or imperfect data efficiently. If you are also interested in this area, please feel free to contact me!
 - 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), [e-mail](louis.kwok.work@gmail.com)
 
+2025.05:  🎉🎉 My first-author paper [Dysfluent WFST: A Framework for Zero-Shot Speech Dysfluency Transcription and Detection](https://arxiv.org/abs/2505.16351) is accepted by Interspeech2025!
 
 <!---
 ChenxuKwok/ChenxuKwok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
