@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Chenxu Guo's Github
 
-I am `Chenxu Guo`,  a current junior undergraduate from **Zhejiang University**.
+I am `Chenxu Guo`,  a current senior undergraduate from **Zhejiang University**. Since July last year, I have been a research intern at the Berkeley Speech Group. From September 2025, I will be arriving at Berkeley as a visiting student researcher.
 
 - 👀 I’m interested in machine learning, especially speech-related areas such as ASR and TTS.
 - 🧠 I'm interested in human-centred AI and aim to manage and use limited or imperfect data efficiently. If you are also interested in this area, please feel free to contact me!
