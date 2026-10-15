@@ -1,10 +1,9 @@
-### Hi there 👋 This is Chenxu Guo's Github
+I'm **Chenxu Guo**, a researcher working in AI.
 
-I am `Chenxu Guo`,  a current senior undergraduate from **Zhejiang University**. Since July last year, I have been a research intern at the Berkeley Speech Group. From September 2025, I will be arriving at Berkeley as a visiting student researcher.
+🔬 My research focuses on deep learning and artificial intelligence.
 
-- 👀 I’m interested in machine learning, especially speech-related areas such as ASR and TTS.
-- 🧠 I'm interested in human-centred AI and aim to manage and use limited or imperfect data efficiently. If you are also interested in this area, please feel free to contact me!
-- 📫 How to reach me: [X/twitter](https://x.com/ChenxuGuo1225), [e-mail](louis.kwok.work@gmail.com)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=J68cvSAAAAAJ&hl=en)
+- 🌐 [Personal Website](https://chenxukwok.github.io/)
 
 <!---
 ChenxuKwok/ChenxuKwok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
